@@ -3,13 +3,13 @@
 To do: [background](https://dubiousdod.org/indie/tags/me/page/2), [prototypes](https://github.com/thedod/deadmentality), [yada yada](https://dubiousdod.org/wiki/p2peace), [etc.](https://about.me/thedod)
 
 #### Goals [never mind *why* :innocent:]:
-* New i2p-only network (separate blockchai)
-* This fork with never [allow censorship
+* New i2p-only network (separate blockchain)
+* This fork will never [allow censorship
   attacks](https://github.com/miguelfreitas/twister-core/issues/215#issuecomment-139843225) [no matter ho many times    you say [paedo](https://en.wikipedia.org/wiki/Four_Horsemen_of_the_Infocalypse) :tongue:]
   * perhaps develop ways to prevent [or detect] fokkers who mod the client not to relay. No matter your intention,
     you're satan's little helpers.
 * Oliver-twister will be fully compatible with whatever twister is used for today
-  [like twitter, but with better people :wink:], but will also be used for machine-readable (json) comm between
+  [like twitter, but with better people :wink:], but will also be used for machine-readable (json) communication between
   hardware boxes (have faith. It *does* make sense).
 
 Gotta run...
