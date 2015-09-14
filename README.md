@@ -16,6 +16,8 @@ Gotta run...
 
 *To be continued [or your money back]*
 
+See/participate also in the wiki [here](https://github.com/p2peace/oliver-twister-core/wiki)
+
 ---------
 
 ### Original twister-core readme
